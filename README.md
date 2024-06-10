@@ -1,0 +1,1 @@
+# APP-Dimen.-de-energia-sola-em-iot
